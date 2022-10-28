@@ -1,0 +1,29 @@
+/* Açıklama oluşturma*/
+/****** ctrl+ö ile açıklama satırı oluştur  *******/
+body {background-color: #0112;
+    color: blue;
+    font-family:sans-serif;
+
+}
+h1 {
+    color:red ;
+    text-align: center;
+    font-size: 19px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+h2 {
+    color:blue ;
+    text-align:center;
+    font-size: 19px;
+}
+p {
+    color:cyan ;
+
+}
+ul {
+    color: azure;
+}
+
