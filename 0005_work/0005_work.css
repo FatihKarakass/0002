@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+
+    background-color: #393b38;
+}
+.anakutu{
+    
+    height: 50px;
+    
+    background-color: #393b38;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
+.kutua{
+    float: right;
+    text-decoration: none;
+    color: white;
+    background-color: #393b38;
+    font-size: 14px;
+
+
+}
+
+.kutus{
+    float: right;
+    text-decoration: none;
+    color: white;
+    background-color: #393b38;
+    font-size: 14px;
+
+
+}
+.kutud{
+    float: right;
+    text-decoration: none;
+    color: white;
+    background-color: #393b38;
+    width: 30px;
+    height: 30px;
+
+
+}
+.kutuf{
+    float: right;
+    text-decoration: none;
+    color: white;
+    background-color: #393b38;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+
+
+}
+
+
+.anakutu .kutuboyu a{
+    margin: 10px 20px auto 29px;
+    
+}
+.anakutu a{
+    margin: 17px 8px auto 8px;
+}
+
+.arama{
+    background-color: #393b38;
+    text-align: center;
+    margin: 300px;
+
+}
+footer{
+    
+    text-align:left ;
+    
+    background-color: #242523;
+    height: 80px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+
+}
+footer input{
+    background-color: #242523;
+    color: white;
+    
+    height: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 45px 0px 45px ;
+    box-shadow: none;
+
+    
+
+}
+footer p {
+    padding-top:17px ;
+    padding-left:13px ;
+
+}
+
+.footer_kutu{
+    margin-top: 315px;
+
+
+}
+.buton{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    size: 18px;
+    margin: 10px 5px 0px 5px;
+    background-color: #242523;
+
+
+
+}
+.aramayeri{
+    width: 450px;
+    height: 25px;
+    border-radius: 20px;
+
+}
+
